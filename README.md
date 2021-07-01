@@ -1,11 +1,11 @@
-# Data Test - Starter Project
+# Python Pandas Data Test - Starter Project
+
+This test is based on the following:
+
+- https://github.com/JSainsburyPLC/aspire-data-test-python-pandas
+- https://github.com/infinityworks/iw-data-test-python-pandas
 
 ### Prerequisites
-#### Java JDK 8
-
-Go to https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-and under the section "Java SE Development Kit 8u191" (the final digits may vary at the time you're reading this)
-click the `Accept License Agreement` radio button and download the version appropriate to your operating system.
 
 #### Python 3.6.* or later.
 
@@ -17,10 +17,9 @@ Check you have python3 installed:
 python3 --version
 ```
 
-#### Preferably an IDE such as Pycharm Community Edition
+#### Preferably an IDE such as PyCharm Community Edition
 
 https://www.jetbrains.com/pycharm/download/
-
 
 ### Dependencies and data
 
@@ -80,7 +79,6 @@ python ./input_data_generator/main_data_generator.py
 ```
 
 This should produce customers, products and transaction data under `./input_data/starter`
-
 
 #### Getting started
 
